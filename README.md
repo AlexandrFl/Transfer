@@ -1,4 +1,4 @@
-## Сервис перевода денег
+## Сервис перевода средств
 ### Работа сервиса:
 1. В метод makeTransfer(Transferinfo transfer) класса Controller поступают исходные данные FRONT
 ```java
